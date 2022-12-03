@@ -40,8 +40,7 @@
     //     setTimeout(function() {
     //         // navLinks.style.display = "block"
     //         navLinks.style.opacity = ".5"
-    //         navLinks.classList.add("nav.nav-links.active")
-    //     }, 0)
+   
    
  
 
