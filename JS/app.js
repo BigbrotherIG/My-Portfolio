@@ -33,17 +33,7 @@
         openMenu()
         navLinks.classList.remove("active")
     }))
-
-    // const fadeIn = () => {
-    //     // openMenu()
-    //     navLinks.style.opacity = "1"
-    //     setTimeout(function() {
-    //         // navLinks.style.display = "block"
-    //         navLinks.style.opacity = ".5"
    
-   
- 
-
     function textLoad () {
         setTimeout(() => {
             text.textContent = "FrontEnd Developer."
