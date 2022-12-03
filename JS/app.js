@@ -42,9 +42,7 @@
     //         navLinks.style.opacity = ".5"
     //         navLinks.classList.add("nav.nav-links.active")
     //     }, 0)
-    //     setTimeout(function() {
-    //         // navLinks.style.display = "block"
-    //         navLinks.style.opacity = "1"
+   
  
 
     function textLoad () {
