@@ -45,9 +45,7 @@
     //     setTimeout(function() {
     //         // navLinks.style.display = "block"
     //         navLinks.style.opacity = "1"
-    //         navLinks.classList.add("nav.nav-links.active")
-    //     }, 3000)
-    // }
+ 
 
     function textLoad () {
         setTimeout(() => {
