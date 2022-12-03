@@ -48,20 +48,6 @@
     //         navLinks.classList.add("nav.nav-links.active")
     //     }, 3000)
     // }
-    // const fadeOut = () => {
-    //     // openMenu()
-    //     navLinks.style.opacity = "1"
-    //     setTimeout(function() {
-    //         // navLinks.style.display = "block"
-    //         navLinks.style.opacity = ".5"
-    //         navLinks.classList.add("nav.nav-links.active")
-    //     }, 0)
-    //     setTimeout(function() {
-    //         // navLinks.style.display = "block"
-    //         navLinks.style.opacity = "1"
-    //         navLinks.classList.add("nav.nav-links.active")
-    //     }, 3000)
-    // }
 
     // fadeIn()
     // fadeOut()
