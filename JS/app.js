@@ -49,11 +49,6 @@
     //     }, 3000)
     // }
 
-    // fadeIn()
-    // fadeOut()
-
-    // setInterval(fadeIn, 1000)
-
     function textLoad () {
         setTimeout(() => {
             text.textContent = "FrontEnd Developer."
