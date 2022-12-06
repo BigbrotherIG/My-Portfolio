@@ -1,5 +1,4 @@
 
-
 @import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Lato&family=Montserrat&display=swap');
 
 *{
@@ -180,5 +179,4 @@
     .contact-cards {
         grid-template-columns: repeat(1, 1fr);
     }
-
 }
